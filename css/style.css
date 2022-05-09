@@ -38,3 +38,27 @@ li{
 li a{
     text-decoration: none;
 }
+.section-head{
+    background-color: blue;
+    padding: 20px;
+}
+.box{
+    width: 60%;
+    margin: 0 auto;
+    height: 200px;
+    background-color: blueviolet;
+}
+.sectionCol1{
+    background-color: white;
+    padding: 20px;
+}
+.img{
+    background-color: blue;
+    flex-basis: 60%;
+    height: 250px;
+}
+.text-area{
+    background-color: rgb(192, 219, 19);
+    flex-basis: 40%;
+    height: 250px;
+}
