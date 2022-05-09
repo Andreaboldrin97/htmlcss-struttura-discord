@@ -63,11 +63,34 @@ li a{
     height: 250px;
 }
 .articol{
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
     height: 350px;
     background-color: green;
 }
 .section-color{
     background-color: rgba(189, 188, 188, 0.643);
+}
+footer{
+    background-color: black ;
+    padding-top: 10px;
+}
+.element{
+    height: 250px;
+    background-color: pink;
+    flex-grow: 2;
+}
+.section-item{
+    background-color: cadetblue;
+    height: 250px; 
+    flex-grow: 1;
+    border: 1px dotted white;
+}
+hr{
+    border-color:  rgba(189, 188, 188, 0.643);;
+}
+.section-footer{
+    background-color: aquamarine;
+    justify-content: space-between;
+    padding: 10px;
 }
