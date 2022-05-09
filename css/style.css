@@ -3,3 +3,38 @@
     padding :0;
     box-sizing: border-box;
 }
+header{
+    background-color: aqua;
+    height: 70px;
+    display: flex;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+   align-items: center;
+}
+.flex-content{
+    display: flex;
+}
+.logo{
+    flex-grow: 1;
+}
+nav{
+    flex-grow: 3;
+}
+.login{
+    flex-grow: 1;
+    text-align: right;
+}
+button{
+    padding: 2px;
+}
+ul{
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+}
