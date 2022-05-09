@@ -76,6 +76,9 @@ footer{
     padding-top: 10px;
 }
 .element{
+    margin-bottom: 10px;
+}
+.element-img{
     height: 250px;
     background-color: pink;
     flex-grow: 2;
@@ -93,4 +96,5 @@ hr{
     background-color: aquamarine;
     justify-content: space-between;
     padding: 10px;
+    margin-top: 10px;
 }
