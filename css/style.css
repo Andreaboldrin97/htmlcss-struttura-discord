@@ -48,7 +48,7 @@ li a{
     height: 200px;
     background-color: blueviolet;
 }
-.sectionCol1{
+.sectionCol{
     background-color: white;
     padding: 20px;
 }
@@ -61,4 +61,13 @@ li a{
     background-color: rgb(192, 219, 19);
     flex-basis: 40%;
     height: 250px;
+}
+.articol{
+    width: 60%;
+    margin: 0 auto;
+    height: 350px;
+    background-color: green;
+}
+.section-color{
+    background-color: rgba(189, 188, 188, 0.643);
 }
